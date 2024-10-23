@@ -28,7 +28,7 @@ I’m a passionate **Information Technology** student with experience in **AI**,
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamilath&show_icons=true&theme=radical)
 
 ---
 
