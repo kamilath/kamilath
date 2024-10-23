@@ -1,7 +1,7 @@
 # 👩‍💻 Kamilath Rifka S
 
 [![Email](https://img.shields.io/badge/Email-kamilathrifka@gmail.com-blue)](mailto:kamilathrifka@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your_linkedin_url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/kamilath-rifka-1388b4249)
 
 ---
 
