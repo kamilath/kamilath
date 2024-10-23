@@ -33,7 +33,7 @@ I’m a passionate **Information Technology** student with experience in **AI**,
 ---
 
 ## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your_username&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kamilath&theme=radical)
 
 ---
 
