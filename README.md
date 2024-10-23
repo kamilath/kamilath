@@ -41,16 +41,16 @@ I’m a highly motivated **Information Technology** student passionate about **A
 ### ✈️ [Enhancing Drone Efficiency Through Gesture-Based Control](link_to_project)
 - Developed a hand gesture-controlled drone using **Arduino** and **OpenCV**, integrating wireless communication for seamless control.
 
-### 📸 [Face Recognition Attendance System](link_to_project)
+### 📸 [Face Recognition Attendance System](https://github.com/kamilath/Attendance-Management-System-Using-Face-Recognition)
 - Automated attendance tracking in real time using **MediaPipe** for face recognition, enhancing efficiency in educational settings.
 
-### 🚗 [Optimizing Buyer Experience with Predictive Tools for Used Car Selection](link_to_project)
+### 🚗 [Optimizing Buyer Experience with Predictive Tools for Used Car Selection](https://github.com/kamilath/Enhancing-Buyer-Experience-with-Predictive-and-Analytical-Tools-for-Used-Car-Selection)
 - Created a machine learning recommendation system for used car selection, analyzing buyer data to provide insights into customer preferences.
 
 ### 🛰️ [Automatic Detection of Ships from Satellite Imagery](https://github.com/kamilath/Airbus-Ship-Detection-using-Mask-R-CNN)
 - Improved maritime monitoring with advanced image processing techniques, increasing detection accuracy by 45%.
 
-### 📜 [Bill Mate – AI-powered Invoice Management](link_to_project)
+### 📜 [Bill Mate – AI-powered Invoice Management](https://github.com/kamilath/Bill-Mate-Effortless-Invoice-Management-with-Intelligent-AI)
 - Designed an AI-driven system to automate invoicing, reducing manual effort through an intuitive user interface.
 
 ---
