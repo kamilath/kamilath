@@ -47,7 +47,7 @@ I’m a highly motivated **Information Technology** student passionate about **A
 ### 🚗 [Optimizing Buyer Experience with Predictive Tools for Used Car Selection](link_to_project)
 - Created a machine learning recommendation system for used car selection, analyzing buyer data to provide insights into customer preferences.
 
-### 🛰️ [Automatic Detection of Ships from Satellite Imagery](link_to_project)
+### 🛰️ [Automatic Detection of Ships from Satellite Imagery]([link_to_project](https://github.com/kamilath/Airbus-Ship-Detection-using-Mask-R-CNN))
 - Improved maritime monitoring with advanced image processing techniques, increasing detection accuracy by 45%.
 
 ### 📜 [Bill Mate – AI-powered Invoice Management](link_to_project)
