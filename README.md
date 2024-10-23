@@ -1,7 +1,7 @@
 # 👩‍💻 Kamilath Rifka S
 
 [![Email](https://img.shields.io/badge/Email-kamilathrifka@gmail.com-blue)](mailto:kamilathrifka@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/kamilath-rifka-1388b4249)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kamilath-rifka-1388b4249)
 
 ---
 
@@ -92,7 +92,7 @@ I’m a highly motivated **Information Technology** student passionate about **A
 
 ## 📫 Let's Connect!
 
-Feel free to check out my projects or get in touch via [Email](mailto:kamilathrifka@gmail.com) or [LinkedIn](www.linkedin.com/in/kamilath-rifka-1388b4249). I'm always open to exciting opportunities and collaborations!
+Feel free to check out my projects or get in touch via [Email](mailto:kamilathrifka@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kamilath-rifka-1388b4249). I'm always open to exciting opportunities and collaborations!
 
 ---
 
