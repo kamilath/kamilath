@@ -7,7 +7,7 @@
 
 ## 🌟 About Me
 
-I’m a highly motivated **Information Technology** student passionate about **AI**, **data analysis**, and **software development**. I believe in leveraging cutting-edge technologies to solve real-world challenges and constantly strive to improve my skillset in the fields of **AI-driven solutions** and **drone technologies**.
+I'm **Kamilath Rifka S**, a high-achieving IT student with a **9.62** CGPA and hands-on experience in **software development** and research internships. Skilled in **Python, SQL, MongoDB, and Flask**, I’ve led projects in gesture-controlled drones and AIdriven billing. I am committed to making a meaningful impact in the tech industry through innovative solutions and leadership. 
 
 - 🎓 **B.Tech in Information Technology** (2021-2025)  
   Sathyabama Institute of Science and Technology, Chennai  
