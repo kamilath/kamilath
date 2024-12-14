@@ -7,11 +7,11 @@
 
 ## 🌟 About Me
 
-I'm **Kamilath Rifka S**, a high-achieving IT student with a **9.62** CGPA and hands-on experience in **software development** and research internships. Skilled in **Python, SQL, MongoDB, and Flask**, I’ve led projects in gesture-controlled drones and AIdriven billing. I am committed to making a meaningful impact in the tech industry through innovative solutions and leadership. 
+I'm **Kamilath Rifka S**, a high-achieving IT student, hands-on experience in **software development** and research internships. Skilled in **Python, SQL, MongoDB, and Flask**, I’ve led projects in gesture-controlled drones and AIdriven billing. I am committed to making a meaningful impact in the tech industry through innovative solutions and leadership. 
 
 - 🎓 **B.Tech in Information Technology** (2021-2025)  
   Sathyabama Institute of Science and Technology, Chennai  
-  **CGPA**: 9.62/10
+  **CGPA**: 9.54/10
 
 - 🌍 **Location**: Chennai, India  
 - 📫 **Contact**: kamilathrifka@gmail.com  
