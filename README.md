@@ -9,7 +9,7 @@
 
 ## 🌟 About Me
 
-Hi! I’m **Kamilath Rifka S**, a final-year IT student passionate about creating impactful solutions with AI, ML, and full-stack development. I love building intelligent systems and tools that solve real-world problems. I’m currently pursuing B.Tech in Information Technology at **Sathyabama Institute of Science and Technology**, with a CGPA of **9.54**.
+Hi! I’m **Kamilath Rifka S**, a final-year IT student passionate about creating impactful solutions with AI, ML, and full-stack development. I love building intelligent systems and tools that solve real-world problems. 
 
 ---
 
@@ -54,17 +54,47 @@ _Mar 2023 – May 2023_
 
 ## 🛠 Tech Stack
 
-**Languages:**  
-`Python` `Java` `R` `SQL` `JavaScript` `ReactJS`
+### 💻 Programming Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**Frameworks & Libraries:**  
-`Scikit-Learn` `PyTorch` `OpenCV` `MediaPipe` `HuggingFace` `FaceRecognition`
+---
 
-**Tools:**  
-`Pandas` `NumPy` `Plotly` `NLTK` `Conda` `Git` `Excel`
+### 🌐 Web & App Development  
+![ReactJS](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
-**Core Areas:**  
-`Data Structures` `ML Algorithms` `Computer Vision` `NLP` `LLMs` `Data Analysis` `ELT`
+---
+
+### 🧠 Machine Learning & AI  
+![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)  
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-FF6F00?style=flat)  
+![FaceRecognition](https://img.shields.io/badge/-FaceRecognition-003B57?style=flat)
+
+---
+
+### 📊 Data Analysis & Visualization  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)  
+![NLTK](https://img.shields.io/badge/-NLTK-076B93?style=flat)  
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+---
+
+### 🧰 Tools & Platforms  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![Conda](https://img.shields.io/badge/-Conda-44A833?style=flat&logo=anaconda&logoColor=white)  
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
 
 ---
 
@@ -82,9 +112,7 @@ _Mar 2023 – May 2023_
 **B.Tech – Information Technology**  
 _Sathyabama Institute of Science and Technology, Chennai_  
 _2021 – 2025_  
-**CGPA:** 9.54 | **Percentage:** 90.63%  
-- **Electives:** Cloud Computing, UI/UX, Blockchain, R Programming  
-- **Core:** Python, Data Structures, Java, DBMS, OS, Networking
+**CGPA:** 9.54 
 
 ---
 
