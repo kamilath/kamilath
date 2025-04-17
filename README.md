@@ -2,101 +2,103 @@
 
 [![Email](https://img.shields.io/badge/Email-kamilathrifka@gmail.com-blue)](mailto:kamilathrifka@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kamilath-rifka-1388b4249)
+[![GitHub](https://img.shields.io/badge/GitHub-kamilathrifka-black)](https://github.com/kamilath)
+[![LeetCode](https://img.shields.io/badge/LeetCode-kamilathrifka-orange)](https://leetcode.com/u/kamilathrifka/)
 
 ---
 
 ## 🌟 About Me
 
-I'm **Kamilath Rifka S**, a high-achieving IT student, hands-on experience in **software development** and research internships. Skilled in **Python, SQL, MongoDB, and Flask**, I’ve led projects in gesture-controlled drones and AIdriven billing. I am committed to making a meaningful impact in the tech industry through innovative solutions and leadership. 
-
-- 🎓 **B.Tech in Information Technology** (2021-2025)  
-  Sathyabama Institute of Science and Technology, Chennai  
-  **CGPA**: 9.54/10
-
-- 🌍 **Location**: Chennai, India  
-- 📫 **Contact**: kamilathrifka@gmail.com  
+Hi! I’m **Kamilath Rifka S**, a final-year IT student passionate about creating impactful solutions with AI, ML, and full-stack development. I love building intelligent systems and tools that solve real-world problems. I’m currently pursuing B.Tech in Information Technology at **Sathyabama Institute of Science and Technology**, with a CGPA of **9.54**.
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-### 👩‍💻 **Software Developer Intern**  
-**Versalgo Private Limited, Chennai** (Oct 2023 - May 2024)  
-- Collaborated on the **Specular ED** project, creating **VR models** for educational simulations.
-- Integrated interactive content to enhance user satisfaction, improving the educational experience.
-
-### 🛠️ **Project Intern**  
-**Hackwit Technologies, Chennai** (Jan 2024 - Mar 2024)  
-- Led the development of the **Alumni Connect app** using **Flutter** and **Firebase**.
-- Increased user engagement by 70% through secure authentication and networking features.
-
-### 🔬 **Research Intern**  
-**M. S. Swaminathan Research Foundations, Chennai** (May 2023 - Oct 2023)  
-- Led a team to develop an **Automatic Detection of Ships from Satellite Imagery** model, achieving a 45% improvement in detection accuracy.
+### 🧠 Machine Learning Intern  
+**M.S. Swaminathan Research Foundation, Chennai**  
+_May 2023 – Oct 2023_  
+- Built an **Automatic Ship Detection** system using satellite imagery.
+- Achieved a **95% increase in detection accuracy** with advanced image processing.
+- **Tech Stack:** MRCNN, Deep Learning, Satellite Image Processing
 
 ---
 
 ## 🚀 Projects
 
-### ✈️ [Enhancing Drone Efficiency Through Gesture-Based Control](link_to_project)
-- Developed a hand gesture-controlled drone using **Arduino** and **OpenCV**, integrating wireless communication for seamless control.
+### ✈️ [Smart Drone Control and Charging](https://github.com/kamilath/Hand-Gesture-Drone-And-Wireless-Charging-Station)  
+_Oct 2024 – Feb 2025_  
+- Developed a gesture-controlled drone with **92% recognition accuracy**.
+- Integrated wireless charging for seamless operations.  
+- **Tech:** MediaPipe, Arduino IDE, OpenCV, pySerial, Zbar
 
-### 📸 [Face Recognition Attendance System](https://github.com/kamilath/Attendance-Management-System-Using-Face-Recognition)
-- Automated attendance tracking in real time using **MediaPipe** for face recognition, enhancing efficiency in educational settings.
+### 💬 Mentor Hub Application  
+_Jan 2024 – Apr 2024_  
+- A mobile app for alumni networking and mentorship.
+- Includes chat, job posts, and event features.  
+- **Tech:** Flutter, Firebase, Cloud Firestore
 
-### 🚗 [Optimizing Buyer Experience with Predictive Tools for Used Car Selection](https://github.com/kamilath/Enhancing-Buyer-Experience-with-Predictive-and-Analytical-Tools-for-Used-Car-Selection)
-- Created a machine learning recommendation system for used car selection, analyzing buyer data to provide insights into customer preferences.
+### 📸 [Smart Attendance System](https://github.com/kamilath/Attendance-Management-System-Using-Face-Recognition)  
+_May 2024 – Nov 2024_  
+- Real-time face recognition for attendance, **90% accuracy**.
+- Enhanced institutional record-keeping.  
+- **Tech:** OpenCV, PyTorch, Streamlit, SQL, FaceRecognition
 
-### 🛰️ [Automatic Detection of Ships from Satellite Imagery](https://github.com/kamilath/Airbus-Ship-Detection-using-Mask-R-CNN)
-- Improved maritime monitoring with advanced image processing techniques, increasing detection accuracy by 45%.
-
-### 📜 [Bill Mate – AI-powered Invoice Management](https://github.com/kamilath/Bill-Mate-Effortless-Invoice-Management-with-Intelligent-AI)
-- Designed an AI-driven system to automate invoicing, reducing manual effort through an intuitive user interface.
+### 📄 [AI-powered Invoice Processing](https://github.com/kamilath/Bill-Mate-Effortless-Invoice-Management-with-Intelligent-AI)  
+_Mar 2023 – May 2023_  
+- Automated invoice validation & categorization.
+- Reduced manual effort by **95%**.  
+- **Tech:** Python, Gemini API, Pandas, Flask, SQLite
 
 ---
 
-## 💻 Tech Skills
+## 🛠 Tech Stack
 
-**Programming Languages**  
-![Python](https://img.shields.io/badge/Python-blue) ![C](https://img.shields.io/badge/C-blue) ![Java](https://img.shields.io/badge/Java-blue) ![R](https://img.shields.io/badge/R-blue)
+**Languages:**  
+`Python` `Java` `R` `SQL` `JavaScript` `ReactJS`
 
-**Backend Technologies**  
-![Firebase](https://img.shields.io/badge/Firebase-orange) ![MongoDB](https://img.shields.io/badge/MongoDB-green)
+**Frameworks & Libraries:**  
+`Scikit-Learn` `PyTorch` `OpenCV` `MediaPipe` `HuggingFace` `FaceRecognition`
 
-**Development**  
-![Flutter](https://img.shields.io/badge/Flutter-blue) ![Flask](https://img.shields.io/badge/Flask-black) ![HTML5](https://img.shields.io/badge/HTML5-orange)
+**Tools:**  
+`Pandas` `NumPy` `Plotly` `NLTK` `Conda` `Git` `Excel`
 
-**Data Analysis & Visualization**  
-![PowerBI](https://img.shields.io/badge/PowerBI-yellow) ![OpenCV](https://img.shields.io/badge/OpenCV-blue) ![Tableau](https://img.shields.io/badge/Tableau-purple)
+**Core Areas:**  
+`Data Structures` `ML Algorithms` `Computer Vision` `NLP` `LLMs` `Data Analysis` `ELT`
 
 ---
 
 ## 🎖️ Achievements
 
-- 🏆 **Remibai Scholarship** – Ranked #2 in B. Tech IT  
-- 🏅 **Chancellor's Scholarship** – Recognized for academic excellence  
-- 💡 **Organized Home Health Hackathon** – Led event with HealthScore Divya Innovation Labs
+- 🏆 **Best Project Award 2025** – Top project in the IT Department  
+- 📜 **Research Papers Published** – Mi-IRICT 2024 (Malaysia), ICICCS 2025 (Erode)  
+- 🥇 **University Merit Scholarships** – Ranked 1st & 2nd in 2023 and 2024  
+- 👨‍💻 Solved **200+ coding challenges** on LeetCode, GFG, and HackerRank
 
 ---
 
-## 🛠 Certifications
+## 🎓 Education
 
-- **Programming in Java** - NPTEL  
-- **Problem Solving (Basic)** - Hacker Rank  
-- **The Joy of Computing using Python** - NPTEL  
-- **Oracle Cloud Infrastructure 2023 AI** - Oracle  
-- **Machine Learning with MATLAB** - MathWorks  
-- **MongoDB for Students** - MongoDB Learning  
+**B.Tech – Information Technology**  
+_Sathyabama Institute of Science and Technology, Chennai_  
+_2021 – 2025_  
+**CGPA:** 9.54 | **Percentage:** 90.63%  
+- **Electives:** Cloud Computing, UI/UX, Blockchain, R Programming  
+- **Core:** Python, Data Structures, Java, DBMS, OS, Networking
 
 ---
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamilath&show_icons=true&theme=radical)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamilath&theme=radical)<br/>
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamilath&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamilath&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilath&layout=compact&theme=radical)
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Get in Touch
 
-Feel free to check out my projects or get in touch via [Email](mailto:kamilathrifka@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kamilath-rifka-1388b4249). I'm always open to exciting opportunities and collaborations!
+Feel free to explore my work and reach out for collaboration or opportunities!  
+📧 [kamilathrifka@gmail.com](mailto:kamilathrifka@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kamilath-rifka-1388b4249)
+
