@@ -16,19 +16,6 @@ I love building **AI-driven systems**, **web applications**, and **smart automat
 
 ---
 
-## 💼 Experience
-
-### 💻 SDET-1 — Byteridge (Remote)  
-📅 *July 2025 – Present*  
-**Tech Stack:** Java, Playwright, Postman, Git  
-
-- Engineered and maintained **500+ automated UI test cases**, achieving **90% automation coverage**.  
-- Boosted backend unit test coverage from **36% → 90%**, improving defect detection by **65%**.  
-- Conducted performance testing with **100+ concurrent users**, improving response time by **40%**.  
-- Collaborated with 8+ cross-functional team members, accelerating release cycles by **30%**.  
-
----
-
 ## 🚀 Projects
 
 ### 🛍️ [E-commerce Web App](https://github.com/kamilath/Shopping-cart) | [Live Demo](https://shopping-cart-rifka.vercel.app)
@@ -113,14 +100,6 @@ I love building **AI-driven systems**, **web applications**, and **smart automat
 
 ---
 
-## 🎖️ Achievements
-
-- 🏆 **Best Project Award 2025** – Recognized for *Smart Drone Control & Charging System*  
-- 📜 **Research Publications** – IEEE ICICCS 2025 (Erode) | MAHSA Mi-IRICT 2024 (Malaysia)  
-- 🎓 **University Merit Scholarship** – Top 2 ranking in 2023 and 2024  
-- 💡 Solved **200+ coding challenges** on LeetCode, GFG & HackerRank  
-
----
 
 ## 🎓 Education
 
@@ -136,14 +115,6 @@ _Sathyabama Institute of Science and Technology, Chennai_
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamilath&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamilath&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilath&layout=compact&theme=radical)
-
----
-
-## 📫 Get in Touch
-
-💌 **Email:** [kamilathrifka@gmail.com](mailto:kamilathrifka@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/kamilath-rifka](https://www.linkedin.com/in/kamilath-rifka/)  
-🌐 **Portfolio:** [rifka-portfolio.vercel.app](https://rifka-portfolio.vercel.app)
 
 ---
 
