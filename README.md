@@ -11,8 +11,7 @@
 ## 🌟 About Me
 
 Hi there! 👋  
-I’m **Kamilath Rifka S**, an **IT Graduate** passionate about **software development, AI, and test automation**.  
-I love building **AI-driven systems**, **web applications**, and **smart automation tools** that make an impact.
+I’m **Kamilath Rifka S**, an **IT Graduate** passionate about **software development, AI, and test automation**. I love building **AI-driven systems**, **web applications**, and **smart automation tools** that make an impact.
 
 ---
 
