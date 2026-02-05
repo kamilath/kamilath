@@ -108,12 +108,4 @@ _Sathyabama Institute of Science and Technology, Chennai_
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamilath&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamilath&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilath&layout=compact&theme=radical)
-
----
-
 ⭐ *“Turning ideas into impactful solutions through AI, code, and creativity.”*
