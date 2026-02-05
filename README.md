@@ -3,8 +3,7 @@
 [![Email](https://img.shields.io/badge/Email-kamilathrifka@gmail.com-blue)](mailto:kamilathrifka@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kamilath-rifka/)
 [![GitHub](https://img.shields.io/badge/GitHub-kamilathrifka-black)](https://github.com/kamilath)
-[![LeetCode](https://img.shields.io/badge/LeetCode-kamilathrifka-orange)](https://leetcode.com/u/kamilathrifka/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://rifka-portfolio.vercel.app)
+
 
 ---
 
