@@ -43,7 +43,7 @@
 
 ## 👋 About Me
 
-Hi! I'm **Kamilath Rifka S**, an **SDET-1** who enjoys turning repetitive testing into reliable automation.
+Hi! I'm **Kamilath Rifka S**, an **Software Engineer** who enjoys turning repetitive testing into reliable automation.
 
 My work revolves around **UI automation, API validation, scalable test frameworks, accessibility testing, and CI/CD**. Outside testing, I enjoy building **AI-powered applications and developer tools**.
 
