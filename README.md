@@ -3,18 +3,13 @@
 ### SDET • Automation Engineer • AI Enthusiast
 
 <p align="left">
-  <a href="https://rifka-portfolio.vercel.app/home">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
   <a href="mailto:kamilathrifka@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/kamilath-rifka/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/kamilath">
-    <img src="https://img.shields.io/badge/GitHub-Projects-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  
 </p>
 
 ---
