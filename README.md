@@ -30,7 +30,7 @@
 │   $ whoami                                               │
 │                                                          │
 │   Kamilath Rifka                                         │
-│   SDET-1 @ Byteridge                                    │
+│   SDET-1                             │
 │                                                          │
 │   $ focus                                                │
 │                                                          │
@@ -161,6 +161,14 @@ Gesture-controlled drone with QR authentication and wireless charging.
 <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square"/>
 </p>
 
+### Frontend
+
+<p> <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Angular.js-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> </p>
+
+### Backend & Databases
+
+<p> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> </p>
+
 ### Test Automation & Quality
 
 <p>
@@ -241,27 +249,6 @@ Gesture-controlled drone with QR authentication and wireless charging.
 
 ---
 
-## 🌐 Find Me Around the Web
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/kamilath-rifka/">
-<img src="https://img.shields.io/badge/LinkedIn-Kamilath%20Rifka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/kamilathrifka/">
-<img src="https://img.shields.io/badge/LeetCode-kamilathrifka-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://github.com/kamilath">
-<img src="https://img.shields.io/badge/GitHub-kamilath-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://rifka-portfolio.vercel.app/home">
-<img src="https://img.shields.io/badge/Portfolio-rifka--portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
 
 <br>
 
