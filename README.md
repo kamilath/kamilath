@@ -202,17 +202,19 @@ Gesture-controlled drone with QR authentication and wireless charging.
 
 <div align="center">
 
-<a href="https://leetcode.com/u/kamilathrifka/"> <img src="https://img.shields.io/badge/⚡%20LeetCode-kamilathrifka-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/> </a>
-
-<a href="https://www.geeksforgeeks.org/user/kamilathrifka/"> <img src="https://img.shields.io/badge/🟢%20GeeksforGeeks-kamilathrifka-2F8D46?style=for-the-badge"/> </a>
-
-<br><br>
-
+<a href="https://leetcode.com/u/kamilathrifka/">
 <img src="https://leetcard.jacoblin.cool/kamilathrifka?theme=dark&font=Karma"/>
+</a>
 
 <br><br>
 
-Java · Data Structures & Algorithms · Problem Solving
+<a href="https://www.geeksforgeeks.org/profile/kamilatqjkr">
+<img src="https://img.shields.io/badge/🟢%20GeeksforGeeks-kamilatqjkr-2F8D46?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+**LeetCode · GeeksforGeeks · Java · DSA · Problem Solving**
 
 </div>
 
