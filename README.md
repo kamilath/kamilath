@@ -30,13 +30,13 @@
 │   $ whoami                                               │
 │                                                          │
 │   Kamilath Rifka                                         │
-│   SDET-1                             │
+│   SDET-1                                                 │
 │                                                          │
 │   $ focus                                                │
 │                                                          │
-│   Playwright  •  Selenium  •  API Testing               │
+│   Playwright  •  Selenium  •  API Testing                │
 │   TypeScript  •  Java  •  Python                         │
-│   AI Engineering  •  CI/CD                              │
+│   AI Engineering  •  CI/CD                               │
 │                                                          │
 ╰──────────────────────────────────────────────────────────╯
 ```
