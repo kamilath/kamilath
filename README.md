@@ -199,19 +199,17 @@ Gesture-controlled drone with QR authentication and wireless charging.
 
 ---
 
-## 🧠 Problem Solving
-
 <div align="center">
 
-### ⚡ LeetCode
-
 <a href="https://leetcode.com/u/kamilathrifka/">
-
 <img src="https://img.shields.io/badge/LeetCode-kamilathrifka-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
 </a>
 
 <br><br>
+
+<img src="https://leetcard.jacoblin.cool/kamilathrifka?theme=dark&font=Karma"/>
+
+<br>
 
 **Java · DSA · Problem Solving**
 
