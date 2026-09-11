@@ -11,9 +11,7 @@
 <a href="https://www.linkedin.com/in/kamilath-rifka/">
 <img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/u/kamilathrifka/">
-<img src="https://img.shields.io/badge/⚡%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+
 <a href="mailto:kamilathrifka@gmail.com">
 <img src="https://img.shields.io/badge/✉%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
