@@ -2,7 +2,7 @@
 
 # 👩🏻‍💻 KAMILATH RIFKA
 
-### `SDET-1` · `Automation Engineer` · `AI Enthusiast`
+### `Software Engineer` · `Automation Engineer` · `AI Enthusiast`
 
 **Building reliable automation. Exploring AI. Solving problems.**
 
@@ -28,7 +28,7 @@
 │   $ whoami                                               │
 │                                                          │
 │   Kamilath Rifka                                         │
-│   SDET-1                                                 │
+│   Software Engineer                                      │
 │                                                          │
 │   $ focus                                                │
 │                                                          │
