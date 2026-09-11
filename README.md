@@ -209,12 +209,14 @@ Gesture-controlled drone with QR authentication and wireless charging.
 <br><br>
 
 <a href="https://www.geeksforgeeks.org/profile/kamilatqjkr">
-<img src="https://img.shields.io/badge/🟢%20GeeksforGeeks-kamilatqjkr-2F8D46?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 <br><br>
 
-**LeetCode · GeeksforGeeks · Java · DSA · Problem Solving**
+<b>LeetCode</b> · DSA · Java · Problem Solving
+<br>
+<b>GeeksforGeeks</b> · DSA · Coding Practice
 
 </div>
 
